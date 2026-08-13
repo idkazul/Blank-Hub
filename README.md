@@ -5,3 +5,9 @@
 </p>
 
 <p align="center"><em>a simple script hub</em></p>
+
+## Loadstring
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/idkazul/b/main/script.lua"))()si
+```
