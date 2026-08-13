@@ -7,5 +7,5 @@
 ## Loadstring
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/idkazul/b/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/idkazul/Blank-Hub/main/script.lua"))()
 ```
